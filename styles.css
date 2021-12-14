@@ -1,0 +1,51 @@
+.background {
+  background-image: url("scoreboardmid.png");
+  background-repeat: no-repeat;
+}
+
+.name-right {
+  margin-right: 10%;
+}
+
+.name-left {
+  position: absolute;
+  top: 53px;
+  left: 113px;
+}
+
+.score-left {
+  position: absolute;
+  top: 53px;
+  left: 455px;
+}
+
+.extra-left {
+  position: absolute;
+  top: 55px;
+  left: 525px;
+}
+
+.extra-right {
+  position: absolute;
+  top: 55px;
+  left: 820px;
+}
+
+.score-right {
+  position: absolute;
+  top: 53px;
+  left: 1010px;
+}
+
+.name-right {
+  position: absolute;
+  top: 53px;
+  left: 1160px;
+  direction: rtl !important;
+}
+
+.large-elements {
+  transform: scale(2, 2) !important;
+  margin-left: 40%;
+  margin-top: 17%;
+}
